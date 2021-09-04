@@ -1,0 +1,83 @@
+([('app.exe', 'D:\\python projects\\build\\app\\app.exe', 'EXECUTABLE'),
+  ('app.exe.manifest',
+   'D:\\python projects\\build\\app\\app.exe.manifest',
+   'BINARY'),
+  ('python39.dll',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\python39.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('_lzma',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\Sushila '
+   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\python projects\\build\\app\\base_library.zip',
+   'DATA')],)
