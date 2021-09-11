@@ -33,7 +33,7 @@ Your Gmail needs to verify that you want to allow app like this to login into yo
 
 - open cmd on the same directory where <b>app.pyw</b> exists
 - type <em> pip freeze </em>
-- press CTRL + F to find certain fext
+- press CTRL + F to find certain text
 - type <b>pyinstaller</b> on the dialogue box.
 <p> If you find it then, good ! follow the next step else type <em>pip install pyinstaller</em> on cmd in that directory and follow next step </p>
 
