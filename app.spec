@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['app.pyw'],
-             pathex=['D:\\python projects'],
+             pathex=['C:\\Users\\Shashwat Dahal\\wifi_spyware'],
              binaries=[],
              datas=[],
              hiddenimports=[],

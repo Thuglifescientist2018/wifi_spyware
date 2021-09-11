@@ -1,1056 +1,1057 @@
-(['D:\\python projects\\app.pyw'],
- ['D:\\python projects', 'D:\\python projects'],
+(['C:\\Users\\Shashwat Dahal\\wifi_spyware\\app.pyw'],
+ ['C:\\Users\\Shashwat Dahal\\wifi_spyware',
+  'C:\\Users\\Shashwat Dahal\\wifi_spyware'],
  ['codecs'],
- ['C:\\Users\\Sushila '
-  'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
-  'C:\\Users\\Sushila '
-  'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
-  'C:\\Users\\Sushila '
-  'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
-  'C:\\Users\\Sushila '
-  'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
-  'C:\\Users\\Sushila '
-  'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ ['c:\\users\\shashwat '
+  'dahal\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'c:\\users\\shashwat '
+  'dahal\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
+  'c:\\users\\shashwat '
+  'dahal\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
+  'c:\\users\\shashwat '
+  'dahal\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
+  'c:\\users\\shashwat '
+  'dahal\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
  {},
  [],
  [],
  False,
  False,
  False,
- '3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit '
+ '3.9.5 (tags/v3.9.5:0a7dcbd, May  3 2021, 17:27:52) [MSC v.1928 64 bit '
  '(AMD64)]',
  [('pyi_rth_pkgutil',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'C:\\Users\\Shashwat '
+   'Dahal\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
    'PYSOURCE'),
   ('pyi_rth_multiprocessing',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'C:\\Users\\Shashwat '
+   'Dahal\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
    'PYSOURCE'),
   ('pyi_rth_inspect',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'C:\\Users\\Shashwat '
+   'Dahal\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
-  ('app', 'D:\\python projects\\app.pyw', 'PYSOURCE')],
+  ('app', 'C:\\Users\\Shashwat Dahal\\wifi_spyware\\app.pyw', 'PYSOURCE')],
  [('inspect',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\inspect.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\inspect.py',
    'PYMODULE'),
   ('importlib',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\__init__.py',
    'PYMODULE'),
   ('importlib._bootstrap_external',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap_external.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap_external.py',
    'PYMODULE'),
   ('importlib.metadata',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\metadata.py',
-   'PYMODULE'),
-  ('contextlib',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextlib.py',
-   'PYMODULE'),
-  ('configparser',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\configparser.py',
-   'PYMODULE'),
-  ('posixpath',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\posixpath.py',
-   'PYMODULE'),
-  ('genericpath',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\genericpath.py',
-   'PYMODULE'),
-  ('stat',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stat.py',
-   'PYMODULE'),
-  ('zipfile',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipfile.py',
-   'PYMODULE'),
-  ('py_compile',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\py_compile.py',
-   'PYMODULE'),
-  ('ntpath',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ntpath.py',
-   'PYMODULE'),
-  ('string',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
-   'PYMODULE'),
-  ('lzma',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\lzma.py',
-   'PYMODULE'),
-  ('_compression',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compression.py',
-   'PYMODULE'),
-  ('bz2',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bz2.py',
-   'PYMODULE'),
-  ('_strptime',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_strptime.py',
-   'PYMODULE'),
-  ('calendar',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\calendar.py',
-   'PYMODULE'),
-  ('threading',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\threading.py',
-   'PYMODULE'),
-  ('_threading_local',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_threading_local.py',
-   'PYMODULE'),
-  ('struct',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\struct.py',
-   'PYMODULE'),
-  ('shutil',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shutil.py',
-   'PYMODULE'),
-  ('tarfile',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tarfile.py',
-   'PYMODULE'),
-  ('gzip',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gzip.py',
-   'PYMODULE'),
-  ('copy',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\copy.py',
-   'PYMODULE'),
-  ('fnmatch',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fnmatch.py',
-   'PYMODULE'),
-  ('importlib.util',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\util.py',
-   'PYMODULE'),
-  ('pathlib',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pathlib.py',
-   'PYMODULE'),
-  ('urllib.parse',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\parse.py',
-   'PYMODULE'),
-  ('urllib',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\__init__.py',
-   'PYMODULE'),
-  ('csv',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\metadata.py',
    'PYMODULE'),
   ('importlib.abc',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\abc.py',
    'PYMODULE'),
   ('typing',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\stat.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\string.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\struct.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\csv.py',
    'PYMODULE'),
   ('importlib._bootstrap',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap.py',
    'PYMODULE'),
   ('argparse',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\argparse.py',
    'PYMODULE'),
   ('textwrap',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\textwrap.py',
    'PYMODULE'),
   ('gettext',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gettext.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\gettext.py',
    'PYMODULE'),
   ('token',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\token.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\token.py',
    'PYMODULE'),
   ('tokenize',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tokenize.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\tokenize.py',
    'PYMODULE'),
   ('importlib.machinery',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\machinery.py',
    'PYMODULE'),
   ('dis',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dis.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\dis.py',
    'PYMODULE'),
   ('opcode',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\opcode.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\opcode.py',
    'PYMODULE'),
   ('ast',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ast.py',
-   'PYMODULE'),
-  ('os',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\os.py',
-   'PYMODULE'),
-  ('subprocess',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
-   'PYMODULE'),
-  ('selectors',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\selectors.py',
-   'PYMODULE'),
-  ('signal',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\ast.py',
    'PYMODULE'),
   ('multiprocessing.popen_spawn_posix',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_spawn_posix.py',
    'PYMODULE'),
   ('multiprocessing.resource_tracker',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_tracker.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\signal.py',
    'PYMODULE'),
   ('multiprocessing.util',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\util.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\util.py',
    'PYMODULE'),
   ('multiprocessing.forkserver',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\forkserver.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\forkserver.py',
    'PYMODULE'),
   ('multiprocessing.connection',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\connection.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\connection.py',
    'PYMODULE'),
   ('multiprocessing.resource_sharer',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_sharer.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\resource_sharer.py',
    'PYMODULE'),
   ('xmlrpc.client',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\client.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\xmlrpc\\client.py',
    'PYMODULE'),
   ('xmlrpc',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\xmlrpc\\__init__.py',
    'PYMODULE'),
   ('xml.parsers.expat',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\expat.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\xml\\parsers\\expat.py',
    'PYMODULE'),
   ('xml.parsers',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\xml\\parsers\\__init__.py',
    'PYMODULE'),
   ('xml',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\xml\\__init__.py',
    'PYMODULE'),
   ('xml.sax.expatreader',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\expatreader.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\expatreader.py',
    'PYMODULE'),
   ('xml.sax.saxutils',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\saxutils.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\saxutils.py',
    'PYMODULE'),
   ('urllib.request',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\request.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\request.py',
    'PYMODULE'),
   ('nturl2path',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\nturl2path.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\nturl2path.py',
    'PYMODULE'),
   ('ftplib',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ftplib.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\ftplib.py',
    'PYMODULE'),
   ('netrc',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\netrc.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\netrc.py',
    'PYMODULE'),
   ('shlex',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shlex.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\shlex.py',
    'PYMODULE'),
   ('mimetypes',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\mimetypes.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\mimetypes.py',
    'PYMODULE'),
   ('getopt',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getopt.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\getopt.py',
    'PYMODULE'),
   ('email.utils',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\utils.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\utils.py',
    'PYMODULE'),
   ('email.charset',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\charset.py',
    'PYMODULE'),
   ('email.errors',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\errors.py',
    'PYMODULE'),
   ('email.quoprimime',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\quoprimime.py',
    'PYMODULE'),
   ('email.base64mime',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\base64mime.py',
    'PYMODULE'),
   ('email._parseaddr',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_parseaddr.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\_parseaddr.py',
    'PYMODULE'),
   ('random',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\random.py',
    'PYMODULE'),
   ('statistics',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\statistics.py',
    'PYMODULE'),
   ('fractions',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\fractions.py',
    'PYMODULE'),
   ('numbers',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\numbers.py',
    'PYMODULE'),
   ('http.cookiejar',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\cookiejar.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\http\\cookiejar.py',
    'PYMODULE'),
   ('http',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\http\\__init__.py',
    'PYMODULE'),
   ('ssl',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ssl.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\ssl.py',
    'PYMODULE'),
   ('urllib.response',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\response.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\response.py',
    'PYMODULE'),
   ('urllib.error',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\error.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\error.py',
    'PYMODULE'),
   ('hashlib',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\hashlib.py',
    'PYMODULE'),
   ('bisect',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\bisect.py',
    'PYMODULE'),
   ('xml.sax',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\__init__.py',
    'PYMODULE'),
   ('xml.sax.handler',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\handler.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\handler.py',
    'PYMODULE'),
   ('xml.sax._exceptions',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\_exceptions.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\_exceptions.py',
    'PYMODULE'),
   ('xml.sax.xmlreader',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\xmlreader.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\xmlreader.py',
    'PYMODULE'),
   ('http.client',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\client.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\http\\client.py',
    'PYMODULE'),
   ('email.message',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\message.py',
    'PYMODULE'),
   ('email.policy',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\policy.py',
    'PYMODULE'),
   ('email.contentmanager',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\contentmanager.py',
    'PYMODULE'),
   ('email.headerregistry',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\headerregistry.py',
    'PYMODULE'),
   ('email._header_value_parser',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\_header_value_parser.py',
    'PYMODULE'),
   ('email.iterators',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\iterators.py',
    'PYMODULE'),
   ('email.generator',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\generator.py',
    'PYMODULE'),
   ('email._encoded_words',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\_encoded_words.py',
    'PYMODULE'),
   ('email._policybase',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_policybase.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\_policybase.py',
    'PYMODULE'),
   ('email.header',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\header.py',
    'PYMODULE'),
   ('quopri',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\quopri.py',
    'PYMODULE'),
   ('uu',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\uu.py',
    'PYMODULE'),
   ('optparse',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\optparse.py',
    'PYMODULE'),
   ('email.parser',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\parser.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\parser.py',
    'PYMODULE'),
   ('email.feedparser',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\feedparser.py',
    'PYMODULE'),
   ('decimal',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\decimal.py',
    'PYMODULE'),
   ('_pydecimal',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\_pydecimal.py',
    'PYMODULE'),
   ('contextvars',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\contextvars.py',
    'PYMODULE'),
   ('base64',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\base64.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\base64.py',
    'PYMODULE'),
   ('hmac',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hmac.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\hmac.py',
    'PYMODULE'),
   ('socket',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socket.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\selectors.py',
    'PYMODULE'),
   ('tempfile',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\tempfile.py',
    'PYMODULE'),
   ('logging',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\logging\\__init__.py',
    'PYMODULE'),
   ('pickle',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\pickle.py',
    'PYMODULE'),
   ('pprint',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\pprint.py',
    'PYMODULE'),
   ('doctest',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\doctest.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\doctest.py',
    'PYMODULE'),
   ('unittest',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\__init__.py',
    'PYMODULE'),
   ('unittest.async_case',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\async_case.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\async_case.py',
    'PYMODULE'),
   ('asyncio',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\__init__.py',
    'PYMODULE'),
   ('asyncio.unix_events',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\unix_events.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\unix_events.py',
    'PYMODULE'),
   ('asyncio.log',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\log.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\log.py',
    'PYMODULE'),
   ('asyncio.windows_events',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_events.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\windows_events.py',
    'PYMODULE'),
   ('asyncio.windows_utils',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_utils.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\windows_utils.py',
    'PYMODULE'),
   ('asyncio.selector_events',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\selector_events.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\selector_events.py',
    'PYMODULE'),
   ('asyncio.proactor_events',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\proactor_events.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\proactor_events.py',
    'PYMODULE'),
   ('asyncio.base_subprocess',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_subprocess.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_subprocess.py',
    'PYMODULE'),
   ('asyncio.threads',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\threads.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\threads.py',
    'PYMODULE'),
   ('asyncio.subprocess',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\subprocess.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\subprocess.py',
    'PYMODULE'),
   ('asyncio.streams',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\streams.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\streams.py',
    'PYMODULE'),
   ('asyncio.queues',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\queues.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\queues.py',
    'PYMODULE'),
   ('asyncio.runners',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\runners.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\runners.py',
    'PYMODULE'),
   ('asyncio.events',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\events.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\events.py',
    'PYMODULE'),
   ('asyncio.base_events',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_events.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_events.py',
    'PYMODULE'),
   ('concurrent.futures',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\__init__.py',
    'PYMODULE'),
   ('concurrent.futures.thread',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\thread.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\thread.py',
    'PYMODULE'),
   ('queue',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\queue.py',
    'PYMODULE'),
   ('concurrent.futures.process',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\process.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\process.py',
    'PYMODULE'),
   ('multiprocessing.queues',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\queues.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\queues.py',
    'PYMODULE'),
   ('multiprocessing.synchronize',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\synchronize.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\synchronize.py',
    'PYMODULE'),
   ('multiprocessing.heap',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\heap.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\heap.py',
    'PYMODULE'),
   ('concurrent.futures._base',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\_base.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\_base.py',
    'PYMODULE'),
   ('concurrent',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\__init__.py',
    'PYMODULE'),
   ('asyncio.trsock',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\trsock.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\trsock.py',
    'PYMODULE'),
   ('asyncio.staggered',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\staggered.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\staggered.py',
    'PYMODULE'),
   ('asyncio.tasks',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\tasks.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\tasks.py',
    'PYMODULE'),
   ('asyncio.base_tasks',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_tasks.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_tasks.py',
    'PYMODULE'),
   ('asyncio.locks',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\locks.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\locks.py',
    'PYMODULE'),
   ('asyncio.sslproto',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\sslproto.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\sslproto.py',
    'PYMODULE'),
   ('asyncio.transports',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\transports.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\transports.py',
    'PYMODULE'),
   ('asyncio.protocols',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\protocols.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\protocols.py',
    'PYMODULE'),
   ('asyncio.futures',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\futures.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\futures.py',
    'PYMODULE'),
   ('asyncio.exceptions',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\exceptions.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\exceptions.py',
    'PYMODULE'),
   ('asyncio.coroutines',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\coroutines.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\coroutines.py',
    'PYMODULE'),
   ('asyncio.base_futures',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_futures.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_futures.py',
    'PYMODULE'),
   ('asyncio.format_helpers',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\format_helpers.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\format_helpers.py',
    'PYMODULE'),
   ('asyncio.constants',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\constants.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\constants.py',
    'PYMODULE'),
   ('unittest.signals',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\signals.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\signals.py',
    'PYMODULE'),
   ('unittest.main',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\main.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\main.py',
    'PYMODULE'),
   ('unittest.runner',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\runner.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\runner.py',
    'PYMODULE'),
   ('unittest.loader',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\loader.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\loader.py',
    'PYMODULE'),
   ('unittest.suite',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\suite.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\suite.py',
    'PYMODULE'),
   ('unittest.case',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\case.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\case.py',
    'PYMODULE'),
   ('unittest._log',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\_log.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\_log.py',
    'PYMODULE'),
   ('unittest.result',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\result.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\result.py',
    'PYMODULE'),
   ('unittest.util',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\util.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\util.py',
    'PYMODULE'),
   ('pdb',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pdb.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\pdb.py',
    'PYMODULE'),
   ('pydoc',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\pydoc.py',
    'PYMODULE'),
   ('webbrowser',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\webbrowser.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\webbrowser.py',
    'PYMODULE'),
   ('http.server',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\server.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\http\\server.py',
    'PYMODULE'),
   ('socketserver',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socketserver.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\socketserver.py',
    'PYMODULE'),
   ('html',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\html\\__init__.py',
    'PYMODULE'),
   ('html.entities',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\entities.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\html\\entities.py',
    'PYMODULE'),
   ('pydoc_data.topics',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\topics.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\pydoc_data\\topics.py',
    'PYMODULE'),
   ('pydoc_data',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\pydoc_data\\__init__.py',
    'PYMODULE'),
   ('tty',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tty.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\tty.py',
    'PYMODULE'),
   ('sysconfig',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sysconfig.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\sysconfig.py',
    'PYMODULE'),
   ('_aix_support',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_aix_support.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\_aix_support.py',
    'PYMODULE'),
   ('_bootsubprocess',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_bootsubprocess.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\_bootsubprocess.py',
    'PYMODULE'),
   ('_osx_support',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_osx_support.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\_osx_support.py',
    'PYMODULE'),
   ('distutils.log',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\log.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\log.py',
    'PYMODULE'),
   ('distutils',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\__init__.py',
    'PYMODULE'),
   ('distutils.ccompiler',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\ccompiler.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\ccompiler.py',
    'PYMODULE'),
   ('distutils.fancy_getopt',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\fancy_getopt.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\fancy_getopt.py',
    'PYMODULE'),
   ('distutils.debug',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\debug.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\debug.py',
    'PYMODULE'),
   ('distutils.util',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\util.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\util.py',
    'PYMODULE'),
   ('distutils.filelist',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\filelist.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\filelist.py',
    'PYMODULE'),
   ('distutils.dep_util',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dep_util.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dep_util.py',
    'PYMODULE'),
   ('distutils.dir_util',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dir_util.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dir_util.py',
    'PYMODULE'),
   ('distutils.file_util',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\file_util.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\file_util.py',
    'PYMODULE'),
   ('distutils.spawn',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\spawn.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\spawn.py',
    'PYMODULE'),
   ('distutils.errors',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\errors.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\errors.py',
    'PYMODULE'),
   ('distutils.sysconfig',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\sysconfig.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\sysconfig.py',
    'PYMODULE'),
   ('distutils.text_file',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\text_file.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\text_file.py',
    'PYMODULE'),
   ('platform',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\platform.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\platform.py',
    'PYMODULE'),
   ('plistlib',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\plistlib.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\plistlib.py',
    'PYMODULE'),
   ('pkgutil',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pkgutil.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\pkgutil.py',
    'PYMODULE'),
   ('zipimport',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipimport.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\zipimport.py',
    'PYMODULE'),
   ('runpy',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\runpy.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\runpy.py',
    'PYMODULE'),
   ('glob',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\glob.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\glob.py',
    'PYMODULE'),
   ('code',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\code.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\code.py',
    'PYMODULE'),
   ('codeop',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\codeop.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\codeop.py',
    'PYMODULE'),
   ('bdb',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bdb.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\bdb.py',
    'PYMODULE'),
   ('cmd',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\cmd.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\cmd.py',
    'PYMODULE'),
   ('difflib',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\difflib.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\difflib.py',
    'PYMODULE'),
   ('__future__',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__future__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\__future__.py',
    'PYMODULE'),
   ('_compat_pickle',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\_compat_pickle.py',
    'PYMODULE'),
   ('multiprocessing.process',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\process.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\process.py',
    'PYMODULE'),
   ('multiprocessing.context',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\context.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\context.py',
    'PYMODULE'),
   ('multiprocessing.popen_forkserver',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_forkserver.py',
    'PYMODULE'),
   ('multiprocessing.sharedctypes',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\sharedctypes.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\sharedctypes.py',
    'PYMODULE'),
   ('ctypes',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\__init__.py',
    'PYMODULE'),
   ('ctypes._endian',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_endian.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\_endian.py',
    'PYMODULE'),
   ('multiprocessing.pool',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\pool.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\pool.py',
    'PYMODULE'),
   ('multiprocessing.dummy',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\dummy\\__init__.py',
    'PYMODULE'),
   ('multiprocessing.dummy.connection',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\dummy\\connection.py',
    'PYMODULE'),
   ('multiprocessing.managers',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\managers.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\managers.py',
    'PYMODULE'),
   ('multiprocessing.shared_memory',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\shared_memory.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\shared_memory.py',
    'PYMODULE'),
   ('secrets',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\secrets.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\secrets.py',
    'PYMODULE'),
   ('multiprocessing.reduction',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\reduction.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\reduction.py',
    'PYMODULE'),
   ('multiprocessing.popen_fork',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_fork.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_fork.py',
    'PYMODULE'),
   ('multiprocessing.popen_spawn_win32',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\subprocess.py',
    'PYMODULE'),
   ('multiprocessing.spawn',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\spawn.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\spawn.py',
    'PYMODULE'),
   ('multiprocessing',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\__init__.py',
-   'PYMODULE'),
-  ('tracemalloc',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\__init__.py',
    'PYMODULE'),
   ('stringprep',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
    'PYMODULE'),
   ('_py_abc',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_py_abc.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\tracemalloc.py',
    'PYMODULE'),
   ('datetime',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\datetime.py',
    'PYMODULE'),
   ('getpass',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getpass.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\getpass.py',
    'PYMODULE'),
   ('email.encoders',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\encoders.py',
    'PYMODULE'),
   ('email',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\__init__.py',
    'PYMODULE'),
   ('email.mime.base',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\mime\\base.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\mime\\base.py',
    'PYMODULE'),
   ('email.mime',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\mime\\__init__.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\mime\\__init__.py',
    'PYMODULE'),
   ('email.mime.text',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\mime\\text.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\mime\\text.py',
    'PYMODULE'),
   ('email.mime.nonmultipart',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\mime\\nonmultipart.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\mime\\nonmultipart.py',
    'PYMODULE'),
   ('email.mime.multipart',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\mime\\multipart.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\email\\mime\\multipart.py',
    'PYMODULE'),
   ('smtplib',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\lib\\smtplib.py',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\smtplib.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\lib\\os.py',
    'PYMODULE')],
  [('python39.dll',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\python39.dll',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\python39.dll',
    'BINARY'),
   ('VCRUNTIME140.dll',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140.dll',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\VCRUNTIME140.dll',
    'BINARY'),
   ('_lzma',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_lzma.pyd',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\DLLs\\_lzma.pyd',
    'EXTENSION'),
   ('_bz2',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_bz2.pyd',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\DLLs\\_bz2.pyd',
    'EXTENSION'),
   ('unicodedata',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\unicodedata.pyd',
-   'EXTENSION'),
-  ('select',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\select.pyd',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\DLLs\\unicodedata.pyd',
    'EXTENSION'),
   ('_multiprocessing',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_multiprocessing.pyd',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\DLLs\\_multiprocessing.pyd',
    'EXTENSION'),
   ('pyexpat',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\pyexpat.pyd',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\DLLs\\pyexpat.pyd',
    'EXTENSION'),
   ('_ssl',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ssl.pyd',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\DLLs\\_ssl.pyd',
    'EXTENSION'),
   ('_hashlib',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_hashlib.pyd',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\DLLs\\_hashlib.pyd',
    'EXTENSION'),
   ('_decimal',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_decimal.pyd',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\DLLs\\_decimal.pyd',
    'EXTENSION'),
   ('_socket',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_socket.pyd',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\DLLs\\select.pyd',
    'EXTENSION'),
   ('_overlapped',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_overlapped.pyd',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\DLLs\\_overlapped.pyd',
    'EXTENSION'),
   ('_asyncio',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_asyncio.pyd',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\DLLs\\_asyncio.pyd',
    'EXTENSION'),
   ('_queue',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_queue.pyd',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\DLLs\\_queue.pyd',
    'EXTENSION'),
   ('_ctypes',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ctypes.pyd',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\DLLs\\_ctypes.pyd',
    'EXTENSION'),
   ('libcrypto-1_1.dll',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libcrypto-1_1.dll',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\DLLs\\libcrypto-1_1.dll',
    'BINARY'),
   ('libssl-1_1.dll',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libssl-1_1.dll',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\DLLs\\libssl-1_1.dll',
    'BINARY'),
   ('libffi-7.dll',
-   'C:\\Users\\Sushila '
-   'Sharma\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libffi-7.dll',
+   'c:\\users\\shashwat '
+   'dahal\\appdata\\local\\programs\\python\\python39\\DLLs\\libffi-7.dll',
    'BINARY')],
  [],
  [],
  [('base_library.zip',
-   'D:\\python projects\\build\\app\\base_library.zip',
+   'C:\\Users\\Shashwat Dahal\\wifi_spyware\\build\\app\\base_library.zip',
    'DATA')],
  [])
