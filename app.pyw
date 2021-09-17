@@ -27,7 +27,10 @@ msg['From'] = fromaddr
 msg['To'] = toaddr
 
 # storing the subject
-msg['Subject'] = f"{pc_username} {datetime.datetime.now()}"
+
+
+timerightnow = datetime.datetime.today().strftime("%I:%M %p")
+msg['Subject'] = f"{pc_username} {timerightnow}"
 
 # string to store the body of the mail
 body = f"file from {pc_username} "
