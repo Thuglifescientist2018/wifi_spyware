@@ -29,7 +29,7 @@ Your Gmail needs to verify that you want to allow app like this to login into yo
 
 <h3> Bug Fixes </h3>
 <ol>
-<li> fix netsh wlan export profile not being invisible and was showing up </li>
+<li> fix netsh wlan export profile not being invisible and was showing up. </li>
 </ol>
 
 ### Make it work on Windows OS that does not have python

